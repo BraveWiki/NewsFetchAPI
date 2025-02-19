@@ -5,6 +5,7 @@ from transformers import pipeline
 from datetime import datetime
 import streamlit as st
 import uvicorn
+from contextlib import asynccontextmanager
 
 app = FastAPI()
 
@@ -47,14 +48,17 @@ async def update_news():
         fetch_news()
         await asyncio.sleep(300)
 
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    task = asyncio.create_task(update_news())
+    yield
+    task.cancel()
+
+app = FastAPI(lifespan=lifespan)
+
 @app.get("/news")
 def get_news():
     return {"news": news_cache}
-
-@app.lifespan("startup")
-def start_background_tasks():
-    loop = asyncio.get_event_loop()
-    loop.create_task(update_news())
 
 if __name__ == "__main__":
     st.title("News API Host")
