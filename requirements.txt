@@ -5,3 +5,4 @@ transformers
 uvicorn
 streamlit
 torch
+contextlib
