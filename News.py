@@ -27,7 +27,7 @@ RSS_FEEDS = [
 ]
 
 news_cache = []
-summarizer = pipeline("summarization", model="Falconsai/text_summarization")
+summarizer = pipeline("summarization", model="stas/tiny-random-llama-2")
 
 def fetch_news():
     global news_cache
