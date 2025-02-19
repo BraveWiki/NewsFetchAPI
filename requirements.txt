@@ -1,7 +1,7 @@
 fastapi
 feedparser
 asyncio
-transformers
+transformers==4.11.3
 uvicorn
 streamlit
 torch
