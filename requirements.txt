@@ -1,0 +1,5 @@
+fastapi
+feedparser
+asyncio
+transformers
+uvicorn
