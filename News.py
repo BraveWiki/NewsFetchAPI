@@ -1,4 +1,5 @@
 from fastapi import FastAPI, BackgroundTasks
+from fastapi.middleware.cors import CORSMiddleware
 import feedparser
 import asyncio
 from transformers import pipeline
@@ -8,6 +9,15 @@ import uvicorn
 from contextlib import asynccontextmanager
 
 app = FastAPI()
+
+# Enable CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Update this to restrict origins if needed
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 RSS_FEEDS = [
     "https://www.theguardian.com/international/rss",
