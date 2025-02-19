@@ -16,7 +16,7 @@ RSS_FEEDS = [
 ]
 
 news_cache = []
-summarizer = pipeline("summarization", model="stas/tiny-random-llama-2")
+summarizer = pipeline("summarization", model="Falconsai/text_summarization")
 
 def fetch_news():
     global news_cache
@@ -51,7 +51,7 @@ async def update_news():
 def get_news():
     return {"news": news_cache}
 
-@app.on_event("startup")
+@app.lifespan("startup")
 def start_background_tasks():
     loop = asyncio.get_event_loop()
     loop.create_task(update_news())
