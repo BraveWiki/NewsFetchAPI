@@ -5,3 +5,5 @@ transformers
 uvicorn
 streamlit
 tensorflow
+torch
+PyTorch
