@@ -1,10 +1,9 @@
-from fastapi import FastAPI, BackgroundTasks
+from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 import feedparser
 import asyncio
 from transformers import pipeline
 from datetime import datetime
-import streamlit as st
 import uvicorn
 from contextlib import asynccontextmanager
 
@@ -44,7 +43,7 @@ def fetch_news():
                 "content": entry.summary,
             }
             if news_item["content"]:
-                summary = summarizer(news_item["content"])
+                summary = summarizer(news_item["content"][:1024], max_length=150, min_length=50, do_sample=False)
                 news_item["summary"] = summary[0]["summary_text"]
             else:
                 news_item["summary"] = "No content available"
@@ -71,5 +70,4 @@ def get_news():
     return {"news": news_cache}
 
 if __name__ == "__main__":
-    st.title("News API Host")
-    st.write("Running FastAPI...")
+    uvicorn.run(app, host="0.0.0.0", port=8000)
