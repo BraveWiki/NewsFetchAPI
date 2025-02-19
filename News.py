@@ -27,7 +27,7 @@ RSS_FEEDS = [
 ]
 
 news_cache = []
-summarizer = pipeline("summarization", model="stas/tiny-random-llama-2")
+summarizer = pipeline("summarization",  model="facebook/bart-large-cnn")
 
 def fetch_news():
     global news_cache
