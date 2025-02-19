@@ -4,4 +4,4 @@ asyncio
 transformers
 uvicorn
 streamlit
-PyTorch
+torch
