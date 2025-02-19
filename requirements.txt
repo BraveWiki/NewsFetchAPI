@@ -2,6 +2,7 @@ fastapi
 feedparser
 asyncio
 transformers
+pipeline
 uvicorn
 streamlit
 torch
