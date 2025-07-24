@@ -1,4 +1,512 @@
 type,name,description,value
+allopathic,Aldosterone,Treats adrenal insufficiency,4406608
+allopathic,Aller-Eze,Relieves allergy symptoms,71759709
+allopathic,Ampicillin,Antibiotic for bacterial infections,99958959
+allopathic,Amoxicillin,Antibiotic for infections,88099909
+allopathic,Atenolol,Beta-blocker for hypertension,8899
+allopathic,Ativan,Reduces anxiety and seizures,6851859
+allopathic,Bactrim,Antibiotic for bacterial infections,88099909
+allopathic,Ciprofloxacin,Antibiotic for infections,89989919
+allopathic,Clarityn,Antihistamine for allergies,79079199
+allopathic,Deltasone,Corticosteroid for inflammation,95579789
+allopathic,Diamorphone,Opioid for severe pain,7857909
+allopathic,Erythromycin,Antibiotic for bacterial infections,1999
+amino_acid,DL-Phenylalanine,Supports mood and pain relief,875452
+amino_acid,Serine,Supports brain function,4535
+amino_acid,Arginine,Promotes blood flow,2296
+amino_acid,Asparagine,Supports protein synthesis,38427
+amino_acid,Aspartic,Enhances energy production,38427
+amino_acid,Cysteine,Supports detoxification,4357
+amino_acid,Glutamic,Supports nerve function,3624
+amino_acid,Glutamine,Supports immune system,97188
+amino_acid,Glycine,Promotes relaxation,2316
+amino_acid,Histidine,Supports immune response,4431
+amino_acid,Hydroxymizoline,Supports metabolic balance,43104
+amino_acid,Iso-Leucine,Supports muscle repair,621
+amino_acid,Leucine,Promotes muscle growth,4226
+amino_acid,Lysine,Supports tissue repair,4236
+amino_acid,Methionine,Supports liver function,4361
+amino_acid,Phenylalanine,Supports mood regulation,3374
+amino_acid,Threonine,Supports immune function,3262
+amino_acid,Tryptophane,Promotes serotonin production,2458
+amino_acid,Valine,Supports muscle metabolism,5339
+bach_remedy,Agrimony,Hides inner turmoil,2247
+bach_remedy,Aspen,Relieves vague fears,4178
+bach_remedy,Beech,Reduces intolerance,1436
+bach_remedy,Centaury,Strengthens personal boundaries,2135
+bach_remedy,Cerato,Boosts self-confidence,5413
+bach_remedy,Rescue Remedy,Calms in crisis,476362
+bach_remedy,Rock Rose,Relieves panic,2841
+bach_remedy,Rock Water,Promotes flexibility,2544
+bach_remedy,Scleranthus,Resolves indecision,2622
+bach_remedy,Star of Bethlehem,Heals emotional shock,3672
+bach_remedy,Sweet Chestnut,Eases extreme despair,2565
+bach_remedy,Vervain,Calms over-enthusiasm,5637
+bach_remedy,Vine,Softens dominance,3317
+bach_remedy,Walnut,Supports life transitions,3318
+bach_remedy,Water Violet,Encourages connection,1579
+bach_remedy,White Chestnut,Quiets repetitive thoughts,2614
+bach_remedy,Wild Oat,Clarifies life purpose,5449
+bach_remedy,Wild Rose,Restores motivation,1594
+bach_remedy,Willow,Reduces resentment,1629
+bacteria,B S E,Treats bacterial imbalances,214017
+flower_essence,Chamomile,Calms emotional tension,255338
+flower_essence,Corn,Grounds and stabilizes,110152
+flower_essence,Cosmos,Enhances clear communication,770055
+flower_essence,Dandelion,Releases physical tension,108256
+flower_essence,Deerbrush,Promotes inner clarity,306684
+flower_essence,Dill,Reduces overwhelm,444392
+flower_essence,Dogwood,Heals emotional trauma,7287
+flower_essence,Easter Lily,Promotes purity and balance,72667
+flower_essence,Echinacea,Strengthens immunity,13352
+flower_essence,Evening Primrose,Heals emotional rejection,9133
+flower_essence,Fairy Lantern,Embraces inner child,231519
+flower_essence,Fawn Lily,Encourages social engagement,30441
+flower_essence,Filaree,Reduces obsessive worry,468886
+flower_essence,Fuchsia,Releases repressed emotions,879818
+flower_essence,Golden Ear Drops,Heals past trauma,68047
+flower_essence,Golden Rod,Strengthens individuality,68048
+flower_essence,Hibiscus,Enhances emotional warmth,17945
+flower_essence,Hound's Tongue,Promotes holistic thinking,36972
+flower_essence,Iris,Inspires creativity,912255
+flower_essence,Madia,Improves focus,47557
+flower_essence,Manzanita,Supports body acceptance,954837
+flower_essence,Morning Glory,Promotes vitality,4931
+flower_essence,Nasturtium,Boosts mental energy,249531
+flower_essence,Penstemon,Builds inner strength,3626
+flower_essence,Pink Yarrow,Protects emotional boundaries,1198629
+flower_essence,Red Clover,Calms collective anxiety,323367
+flower_essence,Sagebrush,Purifies negative patterns,747255
+flower_essence,Scarlet Monkey Flower,Confronts intense emotions,7463112
+flower_essence,Scotch Broom,Inspires optimism,125488
+flower_essence,Self Heal,Promotes self-healing,9966
+flower_essence,Star Tulip,Enhances spiritual sensitivity,248342
+flower_essence,Sticky Monkey Flower,Balances intimacy fears,376329
+flower_essence,Sunflower,Strengthens self-esteem,5961188
+flower_essence,Sweet Pea,Fosters community connection,1926
+flower_essence,Yarrow,Shields from negativity,5856
+color,Blue Medium,Promotes calm and communication,7217
+color,Blue Pale,Encourages tranquility,6777
+color,Blue Peacock,Inspires creativity,1626
+color,Blue Pole Navy,Promotes deep relaxation,7261
+color,Blue Primary,Enhances clear thinking,378
+color,Blue Sky,Encourages peace,4225
+color,Blue Slate,Promotes mental clarity,7217
+color,Blue Steel,Supports emotional stability,7247
+color,Blue Steel Tint,Calms nervous tension,7263
+color,Blue Tint,Promotes serenity,7261
+color,Chocolate Tint,Provides grounding comfort,6711
+color,Gold Pale,Boosts confidence,6169
+color,Gold Tint,Inspires optimism,6128
+color,Gray Pale,Neutralizes stress,7244
+color,Green Dark,Promotes healing and balance,6116
+color,Green Light,Encourages growth,2820
+color,Green Moss,Supports emotional healing,2666
+color,Green Pale,Promotes harmony,6164
+color,Green Pea,Fosters renewal,6125
+color,Green Primary,Supports heart healing,3684
+color,Lavender,Encourages spiritual calm,5627
+color,Lavender Pale,Promotes gentle relaxation,5662
+color,Magenta,Inspires emotional balance,9933
+color,Maune,Supports emotional warmth,9999
+color,Orange,Boosts creativity and energy,9922
+color,Orange Deep,Enhances enthusiasm,99156
+color,Pink,Promotes love and compassion,9942
+color,Pink Dark,Fosters deep emotional healing,9954
+color,Pink Salmon,Encourages nurturing,9988
+color,Red Medium,Boosts vitality,9933
+color,Red Pale,Stimulates gentle energy,9921
+color,Red Primary,Increases courage,9947
+color,Rose Bright,Inspires joy,9928
+color,Rose Deep,Deepens emotional connection,9949
+color,Rose Light,Promotes gentle love,9927
+color,Rose Pale,Fosters compassion,9985
+color,Rose Pale Golden,Encourages warm optimism,9971
+color,Salmon,Nurtures emotional warmth,9982
+color,Salmon Light,Promotes gentle nurturing,9989
+color,Salmon Pale,Encourages soft healing,9973
+color,Amber Deep,Provides grounding energy,9932
+color,Amber Deep Golden,Inspires warm confidence,9933
+color,Amber Golden,Boosts warm vitality,9939
+color,Amber Light,Encourages gentle optimism,9943
+color,Amber Medium,Supports balanced energy,9944
+color,Apricot,Promotes warmth and joy,9937
+color,Blue Ariel,Fosters spiritual clarity,7266
+color,Turquoise,Encourages emotional expression,7229
+color,Blue Blue-Green,Promotes heart-mind balance,7020
+color,Violet,Enhances spiritual insight,2428
+color,Blue Bright,Boosts mental clarity,6719
+color,Yellow,Inspires joy and intellect,4129
+color,Yellow Canary,Promotes optimism,1673
+color,Yellow Chrome,Boosts mental energy,4164
+color,Yellow Pale,Encourages light-heartedness,4216
+color,Blue Dark,Promotes deep calm,7257
+color,Blue Daylight,Enhances mental focus,4127
+color,Blue Giselle,Fosters serene inspiration,1454
+color,Blue Light,Promotes gentle calm,7237
+homeopathy,Hydrang Arboresc,Treats urinary issues,5509
+homeopathy,Hydrastinum Mur,Supports digestion,2973
+homeopathy,Hydrastinum Muril,Relieves mucous issues,5585
+homeopathy,Hydrastis Canadien,Improves sinus health,5322
+homeopathy,Hydrastis Sulph,Supports respiratory health,22913
+homeopathy,Hydrobromic Acid,Treats throat issues,11785
+homeopathy,Hydrocele,Relieves fluid retention,11786
+homeopathy,Hydrocoyle Asiatic,Treats digestive issues,6258
+homeopathy,Hydrocyninum Ac,Supports nerve health,6259
+homeopathy,Hydrogen,Boosts energy balance,45
+homeopathy,Hydrophic Cyanoc,Treats anxiety,6474
+homeopathy,Hydrophobinum,Addresses fear responses,5834
+homeopathy,Hydrophyllum Virg,Supports skin health,6718
+homeopathy,Hydropiper,Treats menstrual pain,21527
+homeopathy,Hydrocy Hydrobrom,Relieves cough,11697
+homeopathy,Hyoscyaminum,Treats spasms,3669
+homeopathy,Hyoscyamus,Calms nervous agitation,4253
+homeopathy,Hypericum,Relieves nerve pain,3239
+homeopathy,Hypoglycis Foster,Supports hormonal balance,7675
+homeopathy,Hypothalamus,Regulates body functions,8288
+homeopathy,Iris Germanica,Treats migraines,7575
+homeopathy,Iris Minor,Supports digestive health,86531
+homeopathy,Iris Tenax,Relieves headaches,5862
+homeopathy,Iris Vernicolor,Treats skin conditions,6982
+homeopathy,Isotonic Plasma,Supports fluid balance,43401
+homeopathy,Itu,Treats joint pain,5328
+homeopathy,Jabrandi,Stimulates perspiration,2733
+homeopathy,Jabrandia Caroba,Treats skin disorders,6259
+homeopathy,Jacaranda Gauland,Supports respiratory health,6266
+homeopathy,Jacea,Relieves joint pain,26681
+homeopathy,Jalapina,Treats diarrhea,3377
+homeopathy,Jaimosa,Supports digestive health,34672
+homeopathy,Jatropha,Treats digestive issues,266
+homeopathy,Jatropha Curcas,Relieves diarrhea,45636
+homeopathy,Jatropha Urens,Treats skin irritation,1115
+homeopathy,Jequiritot,Supports eye health,22155
+homeopathy,Jequirity,Treats conjunctivitis,4912
+homeopathy,Jonosia,Supports liver health,101144
+homeopathy,Jujubetin,Treats skin conditions,1114
+homeopathy,Kali Salicylicum,Relieves joint pain,241021
+homeopathy,Kali Silicium,Treats skin issues,1222
+homeopathy,Kali Sulph Cbro,Supports respiratory health,55421
+homeopathy,Kali Sulphuratum,Treats skin conditions,4627
+homeopathy,Kali Sulphuricum,Improves skin health,7733
+homeopathy,Kali Tartaricum,Treats respiratory issues,2177
+homeopathy,Kali Telluricum,Relieves ear pain,8964
+homeopathy,Kalmia Latifolia,Treats neuralgia,3946
+homeopathy,Kamala,Relieves intestinal worms,5929
+homeopathy,Kantha,Treats skin irritation,1111
+homeopathy,Karaka,Supports digestive health,2191
+homeopathy,Karniviskia Humbol,Treats nerve pain,3469
+homeopathy,Karo-Karo,Relieves skin issues,16914
+homeopathy,Kerosoleum,Treats skin disorders,5916
+homeopathy,Kistingen,Supports respiratory health,6254
+homeopathy,Kola,Boosts energy,7292
+homeopathy,Koussa,Treats digestive issues,5328
+homeopathy,Krameria,Relieves oral pain,64273
+homeopathy,Kreosotum,Treats dental issues,4672
+homeopathy,Lappa,Supports skin health,42103
+homeopathy,Laphana Communis,Treats respiratory issues,2682
+homeopathy,Lathyrus,Relieves muscle spasms,7763
+homeopathy,Latrodectus Hasetii,Treats chest pain,467448
+homeopathy,Latrodectus Katip,Relieves nerve pain,6727
+homeopathy,Latrodectus Macta,Treats heart issues,7565
+homeopathy,Laurus Nobilis,Supports circulation,1111
+homeopathy,Lava Scoriae,Treats skin eruptions,71534
+homeopathy,Lecithin,Supports liver function,29222
+homeopathy,Lemna Minor,Treats nasal issues,7324
+homeopathy,Leonurus Cardiaca,Calms heart palpitations,8349
+homeopathy,Lepidium Bonarien,Treats respiratory issues,3153
+homeopathy,Leptandra,Supports liver health,7497
+homeopathy,Leptilon,Treats skin conditions,710343
+homeopathy,Leucojum,Relieves headaches,7499
+homeopathy,Levomepromazine,Treats anxiety,7949
+homeopathy,Liatris Spicata,Treats digestive issues,3207
+homeopathy,Lichen Planus,Relieves skin rashes,70229
+homeopathy,Lignum Cerula,Treats joint pain,98242
+homeopathy,Lignum Vitae,Relieves arthritis,24428
+homeopathy,Oleum Jec Aselli,Treats skin conditions,1351
+homeopathy,Oleum Myristica,Relieves joint pain,25813
+homeopathy,Oleum Santali,Treats urinary issues,45645
+homeopathy,Oleum Succinum,Calms nervous system,35321
+homeopathy,Oleum Wittnebia,Treats skin disorders,45522
+homeopathy,Oniscus,Relieves respiratory issues,1412
+homeopathy,Onnis,Treats joint pain,1413
+homeopathy,Onosmodium,Relieves headaches,5725
+homeopathy,Oophorinum,Supports hormonal balance,1777
+homeopathy,Oporculus,Treats digestive issues,35449
+homeopathy,Operculino Turp,Relieves constipation,81026
+homeopathy,Opti Et Ipecac,Treats nausea,24747
+homeopathy,Opium,Relieves pain,2311
+homeopathy,Optic Nerve,Supports eye health,8231
+homeopathy,Opiatula,Treats respiratory issues,7134
+homeopathy,Opiumium,Calms nervous system,7135
+homeopathy,Oreodaphne,Supports heart health,7555
+homeopathy,Orexine Tain,Boosts appetite,87867
+homeopathy,Orgone,Enhances energy balance,78109
+homeopathy,Origanum,Treats digestive issues,4817
+homeopathy,Ornithogalum,Relieves stomach pain,6896
+homeopathy,Ornithosis,Treats respiratory infections,6897
+homeopathy,Orpiment,Treats skin conditions,46765
+homeopathy,Ortegaa,Supports respiratory health,6769
+homeopathy,Oscillococcinum,Relieves flu symptoms,13011
+homeopathy,Osmium,Treats respiratory issues,4722
+homeopathy,Ostrya,Supports bone health,3439
+homeopathy,Paraphenylene Dia,Treats skin allergies,9751
+homeopathy,Parathyroid Hormone,Regulates calcium levels,7279
+homeopathy,Parathyroids,Supports bone health,726
+homeopathy,Parenza,Treats respiratory issues,8297
+homeopathy,Parietaria,Relieves urinary pain,2731
+homeopathy,Paronychia,Treats nail infections,2730
+homeopathy,Parotidinum,Treats mumps symptoms,47066
+homeopathy,Parthenium,Relieves allergies,7419
+homeopathy,Pastinaca,Treats skin issues,1263
+homeopathy,Paulinia Pinnata,Supports nerve health,8576
+homeopathy,Peche,Treats digestive issues,1012
+homeopathy,Pedicularis,Relieves muscle tension,41134
+homeopathy,Pediculus,Treats skin irritation,4308
+homeopathy,Peperina Renifor,Supports kidney health,4307
+homeopathy,Pelius,Treats joint pain,14262
+homeopathy,Pelletierine,Relieves worms,37335
+homeopathy,Penicillium,Treats infections,5324
+homeopathy,Penthorum Sedoid,Treats nasal issues,8549
+homeopathy,Peregrine Falcon,Enhances mental clarity,51587
+homeopathy,Peripatus,Treats respiratory issues,1
+homeopathy,Periploca Graeca,Supports heart health,458102
+homeopathy,Persica,Treats skin conditions,1695
+homeopathy,Petrosin,Relieves joint pain,10517
+homeopathy,Pertussis,Treats whooping cough,1068
+homeopathy,Pisinum,Supports eye health,7241
+homeopathy,Schinus,Treats skin conditions,1844
+homeopathy,Scilla Maritima,Relieves respiratory issues,6269
+homeopathy,Scirrhinum,Treats glandular issues,5875
+homeopathy,Scolopendria,Treats skin eruptions,4826
+homeopathy,Scoparium,Supports heart health,65925
+homeopathy,Scopola,Relieves spasms,1153
+homeopathy,Scopolium Hydrob,Treats motion sickness,13348
+homeopathy,Scorpio,Relieves pain,3398
+homeopathy,Scrapie,Treats neurological issues,110476
+homeopathy,Scrophularia,Treats skin conditions,1174
+homeopathy,Scutellaria,Calms nervous tension,3728
+homeopathy,Secale Cornutum,Treats circulatory issues,9435
+homeopathy,Sedum Acre,Treats skin conditions,25233
+homeopathy,Sedum Alpestira,Supports digestive health,17213
+homeopathy,Sedum Repens,Treats hemorrhoids,12463
+homeopathy,Sedum Thymiflorum,Relieves skin issues,12463
+homeopathy,Selenicereus,Treats heart issues,60399
+homeopathy,Selenium,Boosts immune health,30734
+homeopathy,Sempervivum Tect,Treats skin conditions,6579
+homeopathy,Senecio Aureus,Supports menstrual health,5812
+homeopathy,Senecio Jacoboea,Treats skin eruptions,1733
+homeopathy,Senna,Relieves constipation,6515
+homeopathy,Sepia,Treats hormonal imbalances,8722
+homeopathy,Sepin,Supports skin health,41291
+homeopathy,Septicaeminum,Treats infections,1268
+homeopathy,Serotonin,Regulates mood,66898
+homeopathy,Serradeni Per,Treats respiratory issues,111
+homeopathy,Serratala,Supports liver health,102124
+homeopathy,Serum Anguillae,Treats kidney issues,71453
+homeopathy,Solanum Aceticum,Treats skin conditions,7195
+homeopathy,Solanum Arbohenta,Relieves joint pain,6896
+homeopathy,Solanum Carolinese,Treats skin issues,3558
+homeopathy,Solanum Lycopers,Relieves digestive issues,61252
+homeopathy,Solanum Mammosum,Treats respiratory issues,3723
+homeopathy,Solanum Nigrum,Relieves headaches,3723
+homeopathy,Solanum Oleaceum,Treats skin conditions,5519
+homeopathy,Solanum Quercet,Supports respiratory health,5519
+homeopathy,Solanum Tub Aeger,Treats skin issues,9217
+homeopathy,Solanum Tuberosum,Relieves digestive issues,4137
+homeopathy,Solanum Vesicarum,Treats skin conditions,51253
+homeopathy,Solitago,Supports kidney health,7133
+homeopathy,Sp Glant Querc,Treats respiratory issues,73424
+homeopathy,Sp Glant Rubus,Relieves skin conditions,10949
+homeopathy,Spartium Scopariu,Supports heart health,59331
+homeopathy,Sphingurus,Treats skin irritation,3785
+homeopathy,Spig Antartica,Relieves headaches,7852
+homeopathy,Spigella,Treats heart pain,8845
+homeopathy,Spiraea Ulmaria,Relieves digestive issues,4193
+homeopathy,Spiranthes,Treats skin conditions,4193
+homeopathy,Spirit Aether Comp,Supports respiratory health,731022
+homeopathy,Spiritus Glyc Nit,Treats circulatory issues,31665
+homeopathy,Spleen,Supports immune health,465
+homeopathy,Spongia Tosta,Treats respiratory issues,6505
+homeopathy,Squilla,Relieves cough,821010
+homeopathy,Stachys Betonica,Treats headaches,7194
+homeopathy,Stannum,Relieves respiratory issues,3964
+meditative_proving,Amethyst,Enhances spiritual clarity,199045
+meditative_proving,Aremystica,Promotes inner peace,54675
+meditative_proving,Bay Leaf,Supports protection,31055
+meditative_proving,Blue,Encourages emotional calm,971678
+meditative_proving,Caucasium,Promotes spiritual balance,971678
+meditative_proving,Chalcancite,Enhances emotional healing,980596
+meditative_proving,Chalice Well,Fosters spiritual connection,9898
+meditative_proving,Chalice Tree Red Flower,Inspires passion,81182
+meditative_proving,Chestnut Tree White Flower,Promotes purity,950206
+meditative_proving,Clay,Grounds energy,6622098
+meditative_proving,Cornium Mac,Supports spiritual growth,711
+meditative_proving,Copper Beech,Enhances grounding,77999
+meditative_proving,Earthworm,Promotes renewal,76999
+meditative_proving,Echinacea,Boosts resilience,75109
+meditative_proving,Ether,Enhances spiritual clarity,58085
+meditative_proving,Goldfish,Inspires playfulness,587764
+meditative_proving,Green,Promotes healing,77415
+meditative_proving,Holly,Fosters compassion,9915
+meditative_proving,Hornbeam,Boosts mental energy,66605
+meditative_proving,Iron,Strengthens resolve,97321
+meditative_proving,Jet,Protects from negativity,599592
+meditative_proving,Lac Humanum,Supports emotional nurturing,5391
+meditative_proving,Lapis,Enhances intuition,790209
+meditative_proving,Medorrhinum Americanus,Promotes liberation,76859
+meditative_proving,Mimosa,Encourages sensitivity,179118
+meditative_proving,Moldavite,Inspires transformation,411
+meditative_proving,Moonstone,Enhances intuition,699509
+meditative_proving,Opal,Boosts creativity,41873
+meditative_proving,Okoubaka,Detoxifies energy,344551
+meditative_proving,Peridot,Promotes prosperity,996909
+meditative_proving,Plutonium,Supports transformation,810309
+meditative_proving,Purple,Enhances spiritual insight,97899
+meditative_proving,Rainbow,Inspires hope,4456
+meditative_proving,Red,Boosts vitality,61768
+meditative_proving,Rhodocrosite,Heals emotional wounds,9582795
+meditative_proving,Rose Quartz,Promotes love,78839
+meditative_proving,Sea Holly,Enhances protection,4466516
+meditative_proving,Sea Salt,Purifies energy,65352
+meditative_proving,Sequoia,Inspires strength,5933889
+meditative_proving,Silverfish,Promotes adaptability,599389
+meditative_proving,Spectrolite,Enhances intuition,76759
+meditative_proving,Stonehenge,Connects to ancient wisdom,50238
+meditative_proving,Strawberry,Promotes joy,85138
+meditative_proving,Strontium,Supports energy balance,581599
+meditative_proving,Sundew Seed,Enhances focus,6303
+meditative_proving,Tiger's Eye,Boosts confidence,63866
+meditative_proving,Viscum Album,Promotes harmony,95958
+meditative_proving,Willow,Releases resentment,6898968
+meditative_proving,Yellow,Inspires joy,6995669
+meditative_proving,Almond Tree,Promotes wisdom,6685499
+meditative_proving,Ametrine,Balances emotions,6995739
+meditative_proving,Apple Tree,Encourages purity,695851
+meditative_proving,Ash Tree,Promotes strength,6772857
+meditative_proving,Banyan Tree,Fosters spiritual growth,687796
+meditative_proving,Bay Laurel,Enhances protection,4607995
+meditative_proving,Brown Rice,Grounds energy,455888
+meditative_proving,Buddleia,Promotes transformation,679599
+meditative_proving,Butterfly Admiral,Inspires freedom,577792
+meditative_proving,Cotton Ball,Promotes comfort,678899
+meditative_proving,Forget-me-not,Enhances memory,5998601
+meditative_proving,Hazel,Boosts intuition,557775
+meditative_proving,Himalayan Blue Poppy,Inspires peace,5588699
+meditative_proving,Hollyberry,Fosters love,49899
+meditative_proving,Kigelia,Supports grounding,661888
+meditative_proving,Milky Way,Inspires cosmic connection,60988
+meditative_proving,Nettle Flueor,Enhances protection,448954
+meditative_proving,Nettle,Promotes strength,51518
+meditative_proving,Olive Rhodes,Encourages peace,895199
+meditative_proving,Orange,Boosts creativity,5547
+meditative_proving,Phantom Quartz,Enhances clarity,289576
+meditative_proving,Rose Pink,Promotes love,678596
+meditative_proving,Sandalwood,Calms mind,774225
+meditative_proving,Sapphire,Enhances wisdom,290435
+meditative_proving,Selenite,Purifies energy,7996259
+meditative_proving,Shamrock,Brings good fortune,7996998
+meditative_proving,Slate Cumbrian,Grounds energy,112125
+meditative_proving,Snowdrop,Inspires hope,289576
+meditative_proving,Thymus Gland,Boosts immunity,112125
+meditative_proving,Wych Elm,Supports strength,112125
+miasm,Heavy Metal Miasm,Clears toxic imbalances,7996259
+miasm,Petro-Chem Miasm,Detoxifies chemical exposure,7996998
+general_remedy,Dual Personality,Balances conflicting emotions,707617
+general_remedy,Eliminate Excessive Desire To Hunt,Reduces obsessive behaviors,68106
+general_remedy,Emotional Imbalance,Restores emotional stability,601108
+general_remedy,Fear Of Flies,Reduces irrational fears,80164
+general_remedy,Fear Of Man,Relieves social anxiety,60214
+general_remedy,Fear Of Complex,Alleviates complex fears,60534
+general_remedy,Mental Lethargy,Boosts mental clarity,60567
+general_remedy,Obsession,Reduces obsessive thoughts,40362
+general_remedy,Placental Pregnancy,Supports healthy pregnancy,9026
+general_remedy,Restlessness,Calms agitation,20347
+general_remedy,Super Ego,Reduces excessive pride,1114
+general_remedy,Temper,Calms anger,40360
+general_remedy,Tension,Relieves stress,60449
+general_remedy,Anorexia,Supports appetite,504104
+general_remedy,Actinomycosis,Treats bacterial infections,20353
+general_remedy,Adhesions Abdominal,Relieves abdominal scarring,6011233
+general_remedy,Angiofibery,Treats vascular issues,106462
+general_remedy,Anti Adsorption Of Foetus,Supports fetal health,1003661
+general_remedy,Arthythmia,Regulates heart rhythm,203494
+general_remedy,Myo-Haemoglobin Urea,Supports kidney function,203357
+general_remedy,Bloat,Relieves abdominal swelling,70655
+general_remedy,Botulism,Treats botulism poisoning,503337
+general_remedy,Botulism Toxins,Detoxifies botulism,203937
+general_remedy,Calcification,Reduces tissue hardening,503344
+general_remedy,Canker,Treats mouth sores,4095
+general_remedy,Cancer,Supports cancer treatment,60909
+general_remedy,Colic,Relieves abdominal pain,7027
+general_remedy,Concretions,Treats hardened deposits,20427
+general_remedy,Congestion,Relieves nasal congestion,7098
+general_remedy,Corns,Treats foot calluses,969
+general_remedy,Cramp,Relieves muscle spasms,50432
+general_remedy,Cracking,Treats joint issues,70655
+general_remedy,Edentatus,Treats parasitic infections,503329
+general_remedy,Effusion,Reduces fluid buildup,60647
+general_remedy,Emphysema,Supports lung function,60277
+general_remedy,Exostosis,Treats bone growths,80486
+general_remedy,Fowl Pest,Treats poultry diseases,40792
+general_remedy,Frostbite,Relieves frostbite symptoms,403362
+general_remedy,Hydrocephalus,Treats fluid in brain,506756
+general_remedy,Influenza,Relieves flu symptoms,4095
+general_remedy,Interitis,Treats intestinal inflammation,70936
+general_remedy,Lameness,Relieves mobility issues,10426
+general_remedy,Laminitis,Treats hoof inflammation,40222
+general_remedy,Lymphangitis,Treats lymphatic inflammation,60921
+general_remedy,Milk Fever,Treats postpartum issues,40758
+general_remedy,Mud Fever,Treats skin infections,40479
+general_remedy,Navicular Disease,Treats hoof pain,3054334
+general_remedy,Necrosis,Treats tissue death,5053359
+general_remedy,Neuritis,Treats nerve inflammation,405668
+general_remedy,Ossification,Reduces bone hardening,506756
+general_remedy,Pedalostitis,Treats foot inflammation,506756
+general_remedy,Pericardial Effusion,Reduces heart fluid,60647
+general_remedy,Peristalitis,Supports digestion,60647
+general_remedy,Peritoneal Effusion,Reduces abdominal fluid,60647
+general_remedy,Pleural Effusion,Reduces lung fluid,60647
+general_remedy,Proton Imbalance,Restores pH balance,601108
+general_remedy,Ringbone,Treats joint issues,3054334
+general_remedy,Ringworm,Treats fungal infections,4095
+general_remedy,Scleritis,Treats eye inflammation,60909
+general_remedy,Siderosis,Treats iron overload,5053359
+general_remedy,Spleen Bag,Supports spleen health,465
+general_remedy,Spavin Hone,Treats joint issues,3054334
+general_remedy,Splint,Treats bone issues,3054334
+general_remedy,Stasis,Relieves fluid retention,60647
+general_remedy,Sterility,Supports fertility,9026
+general_remedy,Strangles,Treats bacterial infections,4095
+general_remedy,Sweating,Regulates perspiration,70655
+general_remedy,Sweet Itch,Treats skin allergies,40479
+general_remedy,Synovial Effusion,Reduces joint fluid,60647
+general_remedy,Tendonitis,Treats tendon inflammation,405668
+general_remedy,Thickening,Reduces tissue thickening,3054334
+general_remedy,Thoroughpin,Treats tendon swelling,3054334
+general_remedy,Thrush Oral,Treats oral infections,4095
+general_remedy,Trachitis,Treats tracheal inflammation,70936
+general_remedy,Uremia,Treats kidney issues,601108
+general_remedy,Uterine Disease Of Heart,Supports heart health,203494
+general_remedy,Weaving,Reduces repetitive behaviors,20347
+general_remedy,Windgalls,Treats tendon swelling,3054334
+general_remedy,Windbucking,Relieves respiratory issues,70655
+subtle_body,Basal Body,Aligns foundational energy,506756
+subtle_body,Aura,Protects energy field,506756
+subtle_body,Blockage,Clears energy obstructions,506756
+subtle_body,Congestion,Relieves energy stagnation,506756
+subtle_body,Damage To Aura,Repairs energy field,506756
+subtle_body,Etheric Body,Strengthens vital energy,506756
+subtle_body,Etheric Coordination,Balances energy flow,506756
+subtle_body,Mental Body,Enhances mental clarity,506756
+subtle_body,Nidus,Stimulates energy core,506756
+subtle_body,Nidus Stimulation,Boosts energy center,506756
+chakra,Ajna Brow,Enhances intuition,506756
+chakra,Altar Major,Supports spiritual connection,506756
+chakra,Base Of Spine,Grounds energy,506756
+chakra,Crown,Promotes spiritual awareness,506756
+chakra,Heart,Fosters love and compassion,506756
+chakra,Sacral,Enhances creativity,506756
+chakra,Solar Plexus,Boosts personal power,506756
 homeopathy,Arnica Montana,Trauma & bruising,30C 200C
 homeopathy,Belladonna,High fever & inflammation,30C 1M
 homeopathy,Calendula,Topical wounds & healing,30C
