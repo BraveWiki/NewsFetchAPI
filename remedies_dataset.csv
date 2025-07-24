@@ -1962,3 +1962,415 @@ healingcode,11 99 707,Liver detox,
 healingcode,32 16 555,Blood purification,
 healingcode,90 81 333,Digestive regulation,
 healingcode,48 92 610,Mental clarity,
+Healingcode,Headache General,Relieves general headaches,23 74 555
+Healingcode,Migraine,Relieves migraine headaches,58 33 554
+Healingcode,Migraine Resistant,For migraines resistant to treatment,95 96 562
+Healingcode,Forgiveness of Karmic Debt,Promotes forgiveness and clears karmic debt,1123 4561 8729 11 11 72654
+Healingcode,Alzheimer’s,Supports Alzheimer’s disease management,25 49 563
+Healingcode,Forgiveness,Encourages forgiveness and emotional release,33 45 10101
+Healingcode,Back Pain,Relieves general back pain,81 89 336
+Healingcode,Back Pain Sciatica,Relieves sciatica-related back pain,87 65 332
+Healingcode,Stroke Recovery,Supports recovery from stroke,54 32 175
+Healingcode,Stroke Prevention,Helps prevent strokes,56 78 211
+Healingcode,Depression and Anxiety,Reduces symptoms of depression and anxiety,25 39 561 615
+Healingcode,Trauma,Heals emotional and physical trauma,19 78 913
+Healingcode,Trauma Support,Supports recovery from trauma,78 19 921
+Healingcode,Self-Love,Promotes self-love and acceptance,33 45 634
+Healingcode,Self-Love Enhanced,Enhances feelings of self-love,88 21 233
+Healingcode,Self-Healing,Encourages the body’s natural healing,33 45 721
+Healingcode,DNA Repair,Supports repair of cellular DNA,25 36 397
+Healingcode,DNA Repair Enhanced,Enhances DNA repair processes,25 39 561 615
+Healingcode,Healthy Heart,Promotes heart health,18 51 350
+Healingcode,Healthy Arteries,Supports healthy arteries,18 51 321
+Healingcode,Healthy Circulation,Improves blood circulation,81 23 456
+Healingcode,Healthy Blood Pressure,Regulates blood pressure,81 89 986
+Healingcode,Healthy Lungs,Supports lung health,58 43 291
+Healingcode,Healthy Thyroid,Promotes thyroid health,78 99 871
+Healingcode,Healthy Pancreas,Supports pancreas function,48 12 321
+Healingcode,Healthy Kidneys,Promotes kidney health,48 12 521
+Healingcode,Healthy Liver,Supports liver function,51 23 821
+Healingcode,Healthy Digestion,Promotes healthy digestion,51 23 421
+Healingcode,Healthy Immune System,Boosts immune system function,51 86 923
+Healingcode,Healthy Eyes,Supports eye health,51 86 931
+Healingcode,Healthy Vision,Improves vision clarity,51 86 934
+Healingcode,Healthy Hearing,Supports ear health and hearing,51 86 938
+Healingcode,Healthy Skin,Promotes healthy skin,51 86 943
+Healingcode,Healthy Hair,Supports hair health and growth,51 86 948
+Healingcode,Healthy Nails,Promotes strong nails,51 86 953
+Healingcode,Healthy Bones,Supports bone strength,51 86 958
+Healingcode,Healthy Joints,Promotes joint health,51 86 963
+Healingcode,Healthy Muscles,Supports muscle health,51 86 968
+Healingcode,Pain Relief,General pain relief,91 25 876
+Healingcode,Chronic Pain,Relieves chronic pain,91 25 886
+Healingcode,Acute Pain,Relieves acute pain,91 25 896
+Healingcode,Inflammation,Reduces inflammation,91 25 906
+Healingcode,Fever,Reduces fever,91 25 916
+Healingcode,Infection,Supports recovery from infections,91 25 926
+Healingcode,Allergies,Reduces allergic reactions,91 25 936
+Healingcode,Asthma,Relieves asthma symptoms,91 25 946
+Healingcode,Insomnia,Promotes better sleep,91 25 956
+Healingcode,Fatigue,Reduces fatigue and boosts energy,91 25 966
+Healingcode,Stress Relief,Relieves stress,91 25 976
+Healingcode,Emotional Balance,Promotes emotional stability,91 25 986
+Healingcode,Mental Clarity,Enhances mental focus,91 25 996
+Healingcode,Memory Improvement,Improves memory,58 33 554
+Healingcode,Concentration,Enhances concentration,58 33 564
+Healingcode,Confidence,Boosts self-confidence,58 33 574
+Healingcode,Creativity,Enhances creative thinking,58 33 584
+Healingcode,Intuition,Strengthens intuition,58 33 594
+Healingcode,Spiritual Awakening,Promotes spiritual growth,88 88 888
+Healingcode,Divine Protection,Invokes divine protection,77 77 777
+Healingcode,Abundance,Attracts prosperity and abundance,88 88 881
+Healingcode,Financial Freedom,Promotes financial independence,318 798
+Healingcode,Success,Attracts success in endeavors,894 719 784 8
+Healingcode,Love,Attracts love and harmonious relationships,888 412 1289018
+Healingcode,Health,Promotes overall health,9187948181
+Healingcode,Weight Loss,Supports weight loss,4812412
+Healingcode,Perfect Health,Restores optimal health,1814321
+Healingcode,Job Success,Attracts job opportunities,4.93152E+11
+Healingcode,Peace,Promotes inner and outer peace,1001105010
+Healingcode,Protection,Provides energetic protection,9187756981
+Healingcode,Good Luck,Attracts good fortune,817219738
+Healingcode,Chakra Balancing,Balances all chakras,88 76 543
+Healingcode,Root Chakra,Strengthens root chakra,88 76 544
+Healingcode,Sacral Chakra,Strengthens sacral chakra,88 76 545
+Healingcode,Solar Plexus Chakra,Strengthens solar plexus chakra,88 76 546
+Healingcode,Heart Chakra,Strengthens heart chakra,88 76 547
+Healingcode,Throat Chakra,Strengthens throat chakra,88 76 548
+Healingcode,Third Eye Chakra,Strengthens third eye chakra,88 76 549
+Healingcode,Crown Chakra,Strengthens crown chakra,88 76 550
+Healingcode,Divine Guidance,Invokes divine guidance,111
+Healingcode,Angelic Support,Calls for angelic support,222
+Healingcode,Harmony,Promotes harmony and balance,333
+Healingcode,Protection,Provides spiritual protection,444
+Healingcode,Healing,Promotes healing energy,555
+Healingcode,Change,Supports positive change,666
+Healingcode,Luck,Attracts luck and blessings,777
+Healingcode,Abundance,Attracts abundance,888
+Healingcode,Completion,Supports completion of cycles,999
+Healingcode,General Healing,Promotes general healing,33 45 789
+Healingcode,Gratitude,Fosters gratitude,33 45 101
+Healingcode,Joy,Promotes joy and happiness,33 45 102
+Healingcode,Peace,Encourages inner peace,33 45 103
+Healingcode,Love Attraction,Attracts love,33 45 104
+Healingcode,20/20 Vision,Enhances perfect vision,57 683 762 469
+Healingcode,Abundance Knowledge,Attracts knowledge for abundance,964 986 583
+Healingcode,Abundance of Water,Ensures water abundance,51 23 481
+Healingcode,Accelerated Recovery of Health,Speeds health recovery,19 751
+Healingcode,Achieve Goals,Supports goal achievement,894 719 787 8
+Healingcode,Acidity,Reduces acidity in the body,54 85 674
+Healingcode,Acne of All Kinds,Treats all types of acne,16 56 821
+Healingcode,Activation of Appetite Loss (Weight Reduction),Promotes appetite loss for weight reduction,35 87 225
+Healingcode,Acute Bronchitis,Treats acute bronchitis,48 12 567
+Healingcode,Acute Tonsillitis,Heals acute tonsillitis,199 999 9
+Healingcode,Add Platelets WBC (1),Increases platelet and white blood cell count,86 683 772 568
+Healingcode,Add Platelets WBC (2),Increases platelet and white blood cell count,87 467 846 789
+Healingcode,Add Platelets WBC (3),Increases platelet and white blood cell count,47 516 738 489
+Healingcode,Addiction Cigarettes,Reduces cigarette addiction,14 14 551
+Healingcode,Addiction (Alcohol/Any Kind),Heals alcohol or other addictions,01 61 510
+Healingcode,Adenoids,Treats adenoid issues,51 89 514
+Healingcode,Agoraphobia,Reduces fear of open spaces,90 98 413 198 049
+Healingcode,Allergy from Dust Perfume Pollen Spray,Reduces allergies to environmental triggers,98 97 877 997 8
+Healingcode,AMH Anti Mullerian Hormone (1),Supports AMH hormone balance,96 84 633
+Healingcode,AMH Anti Mullerian Hormone (2),Supports AMH hormone balance,77 41 365
+Healingcode,Analgetic (Pain Killer),Provides pain relief,21 90 148 901 519
+Healingcode,Anorexia,Treats anorexia,27 600
+Healingcode,Anti Aging,Promotes youthful appearance,83 46 674 677 5
+Healingcode,Anxiety,Reduces anxiety,96 58 586 374
+Healingcode,Appendix,Supports appendix health,99 99 911
+Healingcode,Arthritis,Relieves arthritis symptoms,34 41 323
+Healingcode,Asthma (Bronchial),Treats bronchial asthma,89 43 548
+Healingcode,Assist Healing Tattoos,Aids tattoo healing,72 84 986
+Healingcode,Athlete’s Foot,Treats athlete’s foot,52 83 276 4
+Healingcode,Avoid Surgery with Divine Help,Seeks divine aid to avoid surgery,55 726
+Healingcode,Attention Disorder Deficit (DDA),Supports attention deficit disorders,49 86 110 193 1
+Healingcode,Back Pain Additional,Additional code for back pain relief,49 82 172 182 27
+Healingcode,Bed Sore,Heals bed sores,67 43 514
+Healingcode,Biological Clock,Regulates biological clock,81 74 988 612 194
+Healingcode,Black Seed “KALONJI”,Enhances black seed benefits,7 89 35 88 74 75 86 94 7
+Healingcode,Black Tourmaline Crystal,Amplifies black tourmaline energy,18 88 948 7
+Healingcode,Bladder Weakness,Strengthens bladder,10 12 181 7
+Healingcode,Bleeding Gums,Stops bleeding gums,72 85 792
+Healingcode,Blessed by God,Invokes divine blessings,777
+Healingcode,Blessed Pregnancy,Supports a healthy pregnancy,18 99 911
+Healingcode,Bloating/Gas,Reduces bloating and gas,44 351
+Healingcode,Body Cleanser and New Cells Builder,Cleanses body and promotes cell regeneration,71 9
+Healingcode,Body Hydration,Enhances body hydration,51 95 134 898 8
+Healingcode,Boils,Treats boils,51 48 385
+Healingcode,Bone Fracture Remedy,Supports bone fracture healing,77 76 551
+Healingcode,Bones,Strengthens bones,21 43 183 148 18
+Healingcode,Brain Aneurysm,Supports brain aneurysm recovery,14 85 999
+Healingcode,Breast Cancer,Supports breast cancer healing,54 32 189
+Healingcode,Body Odour (Bromhidrosis),Reduces body odor,76 42 117
+Healingcode,Body Odour (Bromhidrosis Additional),Additional code for body odor,48 18 749 73
+Healingcode,Bruxism (Eliminate Teeth Grinding),Stops teeth grinding at night,5 54 67 34 56 858
+Healingcode,Black Magic Protection,Protects against black magic,63 68 86
+Healingcode,Buyers Looking for a Home,Attracts home buyers,97 51 989 31
+Healingcode,Calcium (1),Supports calcium absorption,12 45 991
+Healingcode,Calcium (2),Supports calcium absorption,38 54 261 26
+Healingcode,Calcium (3),Supports calcium absorption,49 74 163 0
+Healingcode,Call Angels for Help,Invokes angelic assistance,881
+Healingcode,Cardiomegaly,Treats enlarged heart,29 22 011 3
+Healingcode,Cartilages,Strengthens cartilages,31 42 179 148 19
+Healingcode,Cataract,Supports cataract healing,77 78 177
+Healingcode,Cavity/Caries,Treats dental cavities,51 48 584
+Healingcode,Celery Juice,Enhances celery juice benefits,68 67 696 265 7
+Healingcode,Cervical Spondylosis,Treats cervical spondylosis,21 42 178 147 17
+Healingcode,Chakra Healing,Heals all chakras,88 88 98 88 87 88 88
+Healingcode,Chicken Pox,Treats chicken pox,48 15 421 5
+Healingcode,Chikungunya,Treats chikungunya,51 57 20
+Healingcode,Cholesterol (1),Reduces cholesterol,16 43 683 638 5
+Healingcode,Cholesterol (2),Reduces cholesterol,89 37 695 773 9
+Healingcode,Chronic Disorganization & Procrastination,Reduces disorganization and procrastination,29 37 651
+Healingcode,Chronic Obstructive Pulmonary Disease (COPD),Treats COPD,27 38 963
+Healingcode,Clean Heart,Purifies heart energy,18 43 214
+Healingcode,Clear Emotional Memory,Clears emotional trauma,61 98 81 84 161
+Healingcode,Co enzyme Q10,Enhances CoQ10 benefits,48 56 394 449 485 250
+Healingcode,Coccyx,Supports coccyx health,21 83 122 482 28
+Healingcode,Cold & Coryza,Treats common cold,51 89 912
+Healingcode,Coluna Cervical,Supports cervical spine health,31 22 182 129 18
+Healingcode,Coma,Supports recovery from coma,11 11 012
+Healingcode,Compassion,Fosters compassion,91 57 386 746 9
+Healingcode,Compensate Deficiency of Vitamin A,Addresses Vitamin A deficiency,41 54 812
+Healingcode,Compensate Deficiency of Vitamin C,Addresses Vitamin C deficiency,47 68 784 168 9
+Healingcode,Compensate Deficiency of Vitamin E,Addresses Vitamin E deficiency,68 37 477 247 9
+Healingcode,Concentration,Improves concentration,45 88 623
+Healingcode,Confidence,Boosts confidence,42 16 817 191 9
+Healingcode,Conjunctivitis,Treats conjunctivitis,44 37 224
+Healingcode,Constipation,Relieves constipation,54 84 548
+Healingcode,Contact with the Creator,Enhances spiritual connection,11 981
+Healingcode,Control of Psychic Abilities,Manages psychic abilities,88 88 88 88 9
+Healingcode,Cord Energy Cutting (1),Cuts negative energy cords,25 66 218
+Healingcode,Cord Energy Cutting (2),Cuts negative energy cords,10 63 571 3
+Healingcode,Cracked Lips,Heals cracked lips,51 84 314 82
+Healingcode,Cure Negativity Due to Inadequate Affection,Heals negativity from lack of affection,07 13 194 984 89
+Healingcode,Cure of Any Pain,Relieves any pain,94 68 35 27 437
+Healingcode,Cure of Collapse,Supports recovery from collapse,89 14 320
+Healingcode,Cyst in Mammary Gland,Treats mammary gland cysts,48 51 432
+Healingcode,Cystic Acne,Treats cystic acne,22 12 379
+Healingcode,Cysts on the Gums,Treats gum cysts,51 42 188 77
+Healingcode,Code of a Millionaire,Attracts wealth,71 42 732 189 3
+Healingcode,Cash Flow,Enhances cash flow,31 86 125 187 14
+Healingcode,Covid,Supports COVID-19 recovery,49 86 489
+Healingcode,Dental Pain Acute,Relieves acute dental pain,51 82 544
+Healingcode,Depression,Treats depression,51 95 143 198 91
+Healingcode,Dengue,Treats dengue fever,16 85 973
+Healingcode,Dermatitis,Treats dermatitis,18 53 121
+Healingcode,Detox,Supports detoxification,03 70 00
+Healingcode,Developing Psychic Abilities (Clairvoyance),Enhances clairvoyance,81 88 849 482 167
+Healingcode,Development of Cavities,Prevents cavity development,58 47 544 851 576 160
+Healingcode,Development of Higher Intuition,Enhances intuition,35 986
+Healingcode,Diabetes,Supports diabetes management,88 19 97
+Healingcode,Diabetic Retinopathy,Treats diabetic retinopathy,83 02 15
+Healingcode,Diarrhoea,Treats diarrhea,81 23 457 4
+Healingcode,Dislocations,Supports dislocation recovery,51 23 145
+Healingcode,Distal Fibula,Supports distal fibula healing,88 57 086 54
+Healingcode,DMD (Duchenne Muscular Dystrophy),Supports DMD treatment,42 99 105 64
+Healingcode,Drug Addiction,Reduces drug addiction,51 87 126 184 4
+Healingcode,Drug Addiction Narcosis (1),Supports recovery from drug narcosis,53 33 353
+Healingcode,Dry Mouth,Treats dry mouth,58 14 514
+Healingcode,Dysentry,Treats dysentery,48 12 148
+Healingcode,Dystonia,Treats dystonia,54 32 150
+Healingcode,Ear Wax Occlusion,Clears ear wax,48 14 581 4
+Healingcode,Effects of Chemicals,Neutralizes chemical effects,99 16 514
+Healingcode,Effusion of Plural Cavity,Treats pleural effusion,53 18 83
+Healingcode,Eliminate Cancer,Supports cancer elimination,78 90 234 578 9
+Healingcode,Eliminate Mind Chatter & Racing Mind,Calms mental chatter,63 56 386 449 7
+Healingcode,Eliminates Belly Fat,Reduces belly fat,43 54 766 337 8
+Healingcode,EMF Effects on the Body,Mitigates EMF effects,83 68 487 957 8
+Healingcode,Endurance to Persevere,Enhances endurance,83 48 806
+Healingcode,Epilepsy,Supports epilepsy management,14 84 855
+Healingcode,Esophagus Cancer,Supports esophagus cancer healing,25 36 591
+Healingcode,Ethics,Promotes ethical behavior,81 93 170 184 51
+Healingcode,Exam Phobia,Reduces exam-related fear,89 91 299
+Healingcode,Eye Cyst (Chalazion),Treats eye cysts,14 67 463 31
+Healingcode,Eye Floaters (1),Reduces eye floaters,46 68 783 667 7
+Healingcode,Eye Floaters (2),Reduces eye floaters,87 23 466 832 7
+Healingcode,Eyes Sensibility to Light,Reduces light sensitivity,51 93 178 182 66
+Healingcode,Everything Will Be 100%,Ensures optimal outcomes,91 81 971 85
+Healingcode,Facial Paralysis (Fasciadis),Treats facial paralysis,51 89 999 55
+Healingcode,Falsehood,Promotes truthfulness,31 98 147 197 8
+Healingcode,Fast Health Recovery,Speeds health recovery,19 751
+Healingcode,Fatty Liver (Obesity),Treats fatty liver,51 43 214
+Healingcode,Fear & Phobias,Reduces fears and phobias,13 42 775
+Healingcode,Fear & Phobias Additional,Additional code for fears and phobias,41 07 115
+Healingcode,Fistula Feces Fissure,Treats fistulas and fissures,73 75 038
+Healingcode,For Dream Job,Attracts dream job,45 45 451 670 056 00
+Healingcode,For Betrayal & Wounds of Betrayal,Heals betrayal wounds,53 14 808 53
+Healingcode,For Students to Get Good Grades,Enhances academic performance,51 90 079 187 88
+Healingcode,For Hobby to Become Profitable,Turns hobbies into profit,53 99 350
+Healingcode,For Victims of Domestic Violence,Supports domestic violence victims,25 33 698
+Healingcode,For Easing Step Parenting Issues,Eases step-parenting challenges,69 29 588
+Healingcode,For Easing the Life of Single Parents,Supports single parents,12 66 978
+Healingcode,For Electronic Equipment,Ensures equipment functionality,70 47 898
+Healingcode,For Fear of Responsibility of Being a Parent,Reduces parenting fears,21 69 587 219 6
+Healingcode,For Good Luck in All Endeavors,Attracts good luck,20 61 416
+Healingcode,For Ideal Weight,Supports achieving ideal weight,41 94 812 412
+Healingcode,For Improvement in Athletic Performance,Enhances athletic performance,20 02 004
+Healingcode,For Memories to Erase,Erases negative memories,56 11 213
+Healingcode,For Nail Biting Hair Pulling,Reduces obsessive behaviors,64 07 991
+Healingcode,For Public Speaking Anxiety,Reduces public speaking fear,19 66 551
+Healingcode,For Shoulder Pain in General,Relieves shoulder pain,17 16 911
+Healingcode,For Schizophrenia,Supports schizophrenia management,13 31 413
+Healingcode,Gain Youthfulness,Promotes youthful energy,33 96 815
+Healingcode,Gallbladder Stone,Treats gallbladder stones,14 80 12
+Healingcode,Get Rid of Surgery,Seeks to avoid surgery,80 92
+Healingcode,Get Rid of Unwanted People,Removes negative influences,96 26 560
+Healingcode,Glaucoma,Supports glaucoma healing,77 78 176
+Healingcode,Good Dreams,Promotes positive dreams,48 13 193 178 1
+Healingcode,Good Labour Reputation,Enhances work reputation,41 98 187 19
+Healingcode,Good Labour Reputation Additional,Additional code for work reputation,91 44 81
+Healingcode,Gout,Treats gout,85 43 215
+Healingcode,Graves Disease,Treats Graves’ disease,52 81 197
+Healingcode,Grounding Increased,Enhances grounding,68 78 556 842 7
+Healingcode,Guillain-Barre Syndrome (1),Supports Guillain-Barre recovery,48 24 399
+Healingcode,Guillain-Barre Syndrome (2),Supports Guillain-Barre recovery,19 71 679 2
+Healingcode,Guardian Angel Number,Invokes guardian angel support,525
+Healingcode,Healing of All People in the World,Promotes global healing,88 88 858 888 8
+Healingcode,Haemoglobin or Anaemia,Treats anemia,48 54 321 2
+Healingcode,Haemorrhoids Piles,Treats hemorrhoids,58 14 321 9
+Healingcode,Hair Fall,Reduces hair fall,54 84 121
+Healingcode,Hair Loss,Treats hair loss,22 76 109 7
+Healingcode,Hair Growth New,Promotes new hair growth,21 47 959
+Healingcode,Halitosis (Bad Breath),Treats bad breath,32 92 060 36
+Healingcode,Happiness,Fosters happiness,28 77 41
+Healingcode,Harmonious Relation with Family,Improves family relations,81 44 187 19
+Healingcode,Harmonization of Spaces,Harmonizes environments,14 88 894 8
+Healingcode,Hashimoto’s Thyroiditis,Treats Hashimoto’s thyroiditis,42 66 981
+Healingcode,Heal Kidneys (1),Supports kidney healing,78 23 451
+Healingcode,Heal Kidneys (2),Supports kidney healing,37 56
+Healingcode,Heal Wounds,Promotes wound healing,51 48 912
+Healingcode,Healing Cats,Supports cat healing,47 19 184 98
+Healingcode,Healing Dogs,Supports dog healing,89 41 898
+Healingcode,Health Absolute to the Norm of the Creator,Restores optimal health,1 81 43 21
+Healingcode,Health Regeneration,Regenerates health,88 88 488 888 8
+Healingcode,Healthy Heart,Supports heart health,19 38 286
+Healingcode,Healthy Lungs,Supports lung health,34 80 198 4
+Healingcode,Healthy Skin,Promotes healthy skin,18 58 432 1
+Healingcode,Height Gain (1),Supports height increase,41 41 414
+Healingcode,Height Gain (2),Supports height increase,51 48 214 79
+Healingcode,Help from Unknown Diseases,Aids unknown disease recovery,18 84 321
+Healingcode,Hepatitis A & B,Treats hepatitis A and B,54 12 514
+Healingcode,Hernia,Supports hernia recovery,54 81 321
+Healingcode,Herpes Zoster or Shingles,Treats shingles,51 45 432 2
+Healingcode,High Blood Pressure,Reduces high blood pressure,81 45 432
+Healingcode,Himalayan Sea Salt,Enhances Himalayan sea salt benefits,1 57 95 95
+Healingcode,HIV Positive,Supports HIV management,51 48 555
+Healingcode,Hormonal Imbalance (1),Balances hormones,81 63 957
+Healingcode,Hormonal Imbalance (2),Balances hormones,38 64 912 987 1
+Healingcode,How to Ignore Bad Energies,Protects against negative energies,11 139
+Healingcode,Hydro Morphine,Supports hydro morphine effects,94 68 35 27 437
+Healingcode,Hyperactive Child,Calms hyperactive children,51 94 887 163 1
+Healingcode,Hyperesthesia of Teeth,Reduces tooth sensitivity,14 84 312
+Healingcode,Hyperlipidemia,Reduces high lipid levels,22 71 536
+Healingcode,Hypertension,Treats hypertension,81 45 832
+Healingcode,Hyperpigmentation,Reduces hyperpigmentation,55 75 986
+Healingcode,Hypogonadism (Low Testosterone),Treats low testosterone,56 16 921
+Healingcode,IBS Irritable Bowel Syndrome,Treats IBS,95 79 83
+Healingcode,Immunity (Immune System),Boosts immunity,616
+Healingcode,Improve Success in Creative World,Enhances creative success,87 58 274 356 8
+Healingcode,Increase Body’s Utilization of Iodine,Enhances iodine utilization,37 46 68 38 678
+Healingcode,Increase Motivation,Boosts motivation,51 56 886
+Healingcode,Increase Weight,Supports weight gain,48 19 884 910 91
+Healingcode,Inferiority Complex,Reduces inferiority complex,49 80 643 17
+Healingcode,Infertility,Supports fertility,99 18 755
+Healingcode,Inflammation of the Stomach & Intestine,Reduces gastrointestinal inflammation,54 85 674
+Healingcode,Ingrown Nails,Treats ingrown nails,45 48 547
+Healingcode,Inner Peace,Fosters inner peace,10 01 105 010
+Healingcode,Insects Away,Repels insects,91 89 189
+Healingcode,Insomnia Due to Stress,Treats stress-related insomnia,46 19 207
+Healingcode,Instant Mosquito Repellent,Repels mosquitoes,68 66 817 283 786 970
+Healingcode,Interstitial Lung Disease (ILD),Treats ILD,20 53 961
+Healingcode,Intestinal Colic (Belly Ache),Relieves intestinal colic,81 23 457
+Healingcode,Intestinal Disturbances,Treats intestinal issues,56 48 14
+Healingcode,Intestinal Infections,Treats intestinal infections,54 21 427
+Healingcode,Iron,Supports iron absorption,57 78 46 64 76 485
+Healingcode,Irregular Period (1),Regulates menstrual cycle,13 17 533 90
+Healingcode,Irregular Period (2),Regulates menstrual cycle,59 40 795
+Healingcode,Itching,Relieves itching,12 49 812
+Healingcode,Joint Pain Relief/Joints Disease,Relieves joint pain,54 21 891
+Healingcode,Joints,Supports joint health,31 48 125 142 12
+Healingcode,Jaundice (1),Treats jaundice,84 51 481
+Healingcode,Jaundice (2),Treats jaundice,54 32 148
+Healingcode,Keeping Good Friendships,Maintains friendships,725
+Healingcode,Keratoconus,Treats keratoconus,18 91 014
+Healingcode,Kidney & Urinary Diseases,Supports kidney and urinary health,89 41 254
+Healingcode,Kiwi Fruit (Brain Energy),Enhances kiwi fruit benefits,33 36 384 244 474 330
+Healingcode,Karmic Healing,Heals karmic issues,14 710
+Healingcode,Lactose Intolerance,Treats lactose intolerance,48 45 432
+Healingcode,Laziness,Reduces laziness,31 84 179 184 4
+Healingcode,Leucorrhoea (1),Treats leucorrhoea,43 92 973
+Healingcode,Leucorrhoea (2),Treats leucorrhoea,53 29 214 5
+Healingcode,Liberation from Fear,Frees from fear,48 97 128 194 8
+Healingcode,Lichen Planus (1),Treats lichen planus,78 90 92
+Healingcode,Lichen Planus (2),Treats lichen planus,91 53 964
+Healingcode,Life Loose and Sagging Breasts & Uterus,Tightens sagging tissues,51 48 321 83
+Healingcode,Lipedema,Treats lipedema,08 12 706
+Healingcode,Lipoma,Treats lipoma,48 38 543
+Healingcode,Liver Cancer (Primary Hepatocellular Carcinoma),Supports liver cancer healing,72 48 496
+Healingcode,Liver Cirrhosis,Treats liver cirrhosis,48 12 345
+Healingcode,Lowering of Fever,Reduces fever,38 89 332
+Healingcode,Lung Cancer,Supports lung cancer healing,45 41 589
+Healingcode,Lupus,Treats lupus,85 43 148
+Healingcode,Maintenance & Repair of Equipment,Ensures equipment maintenance,64 84 718 947 2
+Healingcode,Make a Wish,Supports wish fulfillment,51 84 913 198 9
+Healingcode,Master Protection for Trees & Plants,Protects trees and plants,82 73 748 486 838 680
+Healingcode,Melasma (1),Treats melasma,95 95 89
+Healingcode,Melasma (2),Treats melasma,29 18 126
+Healingcode,Memory Improvement,Enhances memory,58 93 240
+Healingcode,Menopause,Eases menopause symptoms,48 51 548
+Healingcode,Menstrual Weakness,Treats menstrual weakness,22 16 911
+Healingcode,Mental Confusion,Reduces mental confusion,11 11 012
+Healingcode,Merkel Cell Carcinoma,Supports Merkel cell carcinoma healing,11 47 382
+Healingcode,Milk Thistle,Enhances milk thistle benefits,78 57 678 767 6
+Healingcode,Motion Sickness,Reduces motion sickness,83 41 783
+Healingcode,Mouth Freshener,Freshens breath,27 600
+Healingcode,Mouth Ulcers (1),Treats mouth ulcers,74 59 801 06
+Healingcode,Mouth Ulcers (2),Treats mouth ulcers,35 46 296
+Healingcode,Muscle Relaxation,Relaxes muscles,59 17 983 174 9
+Healingcode,Muscular Dystrophy,Supports muscular dystrophy treatment,85 43 218 3
+Healingcode,Nasal Polyps,Treats nasal polyps,55 19 740
+Healingcode,Naval Displacement,Corrects naval displacement,95 51 068 82
+Healingcode,Neck Pain,Relieves neck pain,18 54 832 1
+Healingcode,Negative to Positive,Transforms negativity to positivity,18 88 948
+Healingcode,Neophobia,Reduces fear of new things,49 86 173 1
+Healingcode,Nerve Diseases Neurological,Supports neurological health,14 85 432 93
+Healingcode,Neuromuscular Relaxation,Promotes neuromuscular relaxation,59 17 983 174 9
+Healingcode,Neurosis (Nerves),Treats neurosis,59 87 425 189 801 6
+Healingcode,Nipah Virus,Supports Nipah virus recovery,77 94 218
+Healingcode,Normal BP,Regulates blood pressure,11 84 744
+Healingcode,Normal Delivery,Supports normal childbirth,54 84 625
+Healingcode,Nose Bleeds,Stops nose bleeds,65 18 432 1
+Healingcode,Nothing Is Impossible,Fosters belief in possibilities,23 63 942 4
+Healingcode,Numbness into Foot,Treats foot numbness,55 62 260
+Healingcode,OCD,Reduces obsessive-compulsive disorder,50 58 320
+Healingcode,Old Age,Supports aging gracefully,51 93 178 493 17
+Healingcode,Overcome Poverty,Helps overcome poverty,31 56 887
+Healingcode,Open Heart Chakra,Opens heart chakra,88 76 543
+Healingcode,Optimise Work,Enhances work efficiency,41 98 14
+Healingcode,Optimism,Fosters optimism,49 89 171 819 48
+Healingcode,Ovarian Cyst,Treats ovarian cysts,51 48 538
+Healingcode,Overweight,Supports weight loss,48 12 412
+Healingcode,Pain Relief (Any Body Pain),Relieves body pain,94 68 35 27 437
+Healingcode,Pancreas Insulin,Supports insulin production,89 51 432
+Healingcode,Panic Attacks,Reduces panic attacks,72 84 555
+Healingcode,Papillary Thyroid Cancer,Supports thyroid cancer healing,33 56 763
+Healingcode,Past Life Negativity,Clears past life negativity,71 48 694 83
+Healingcode,Patience,Enhances patience,51 87 361 08
+Healingcode,PCOD,Treats polycystic ovarian disease,77 86 53
+Healingcode,PCOS,Treats polycystic ovary syndrome,50 34 388 41
+Healingcode,Perfect Health,Promotes perfect health,18 14 321
+Healingcode,Pericardial Cavity,Supports pericardial health,71 42 294
+Healingcode,Peritoneum,Supports peritoneal health,86 05 759 15
+Healingcode,Placenta Previa,Treats placenta previa,14 81 855
+Healingcode,Plantar Fasciitis,Treats plantar fasciitis,52 93 774 298 79
+Healingcode,Plants,Supports plant health,81 11 202 18
+Healingcode,Pneumonia,Treats pneumonia,48 14 489
+Healingcode,Poison Ivy Rashes,Treats poison ivy rashes,87 48 682 742 7
+Healingcode,Polyneuropathy,Treats polyneuropathy,48 38 514
+Healingcode,Post Operative Nausea & Vomiting (PONV),Reduces PONV,86 21 510
+Healingcode,Prevents Possible Scandals,Prevents scandals,93 71 857 195
+Healingcode,Prostate,Supports prostate health,74 64 996 52
+Healingcode,Protect Your Wealth,Protects wealth,808
+Healingcode,Protection Shield,Provides spiritual protection,81 41 576
+
